@@ -34,7 +34,7 @@
     
 </body>
     <div class="container">
-<div class="btn-toolbar" role="toolbar" aria-label="...">
+        <div class="btn-toolbar" role="toolbar" aria-label="...">
               <div class="btn-group" role="group" aria-label="...">
                   <br/>
                   <asp:Button ID="seccion1" runat="server" Text="1" CssClass="btn btn-default" OnClick="seccion1_Click"/>
@@ -43,8 +43,8 @@
                   <asp:Button ID="seccion4" runat="server" Text="4" CssClass="btn btn-default" OnClick="seccion4_Click"/>
                   <asp:Button ID="seccion5" runat="server" Text="5" CssClass="btn btn-default" OnClick="seccion5_Click"/>
               </div>
-   </form>
-</div>
+</div><div>>
+           </form>
 <footer>
 </footer>
 </html>

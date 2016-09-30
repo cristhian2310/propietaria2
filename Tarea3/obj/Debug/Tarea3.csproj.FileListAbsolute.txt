@@ -14,3 +14,8 @@ C:\Users\crcu2914\Desktop\Tecnologia Propietaria 2\Tarea3\bin\Tarea3.pdb
 C:\Users\crcu2914\Desktop\Tecnologia Propietaria 2\Tarea3\obj\Debug\Tarea3.csprojResolveAssemblyReference.cache
 C:\Users\crcu2914\Desktop\Tecnologia Propietaria 2\Tarea3\obj\Debug\Tarea3.dll
 C:\Users\crcu2914\Desktop\Tecnologia Propietaria 2\Tarea3\obj\Debug\Tarea3.pdb
+C:\Users\crcu2914\Desktop\Propiertaria 2 git\propietaria2\Tarea3\bin\Tarea3.dll
+C:\Users\crcu2914\Desktop\Propiertaria 2 git\propietaria2\Tarea3\bin\Tarea3.pdb
+C:\Users\crcu2914\Desktop\Propiertaria 2 git\propietaria2\Tarea3\obj\Debug\Tarea3.csprojResolveAssemblyReference.cache
+C:\Users\crcu2914\Desktop\Propiertaria 2 git\propietaria2\Tarea3\obj\Debug\Tarea3.dll
+C:\Users\crcu2914\Desktop\Propiertaria 2 git\propietaria2\Tarea3\obj\Debug\Tarea3.pdb
